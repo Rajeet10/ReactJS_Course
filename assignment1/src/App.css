@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  border: 2px solid black;
+  font: inherit ;
+  padding: 10px;
+}
